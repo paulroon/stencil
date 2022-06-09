@@ -20,7 +20,7 @@
 ## Usage
 
 ``` bash
-composer require happycode/stencil
+composer require paulroon/stencil
 ```
 
 then, wherever..
