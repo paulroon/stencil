@@ -1,4 +1,3 @@
-# stencil
 <h1 align="center"><!-- NAME_START -->Stencil<!-- NAME_END --></h1>
 
 <!-- BADGES_START -->
